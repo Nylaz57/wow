@@ -119,8 +119,9 @@ commentJouer.addEventListener("click", function () {
 
 boutonRejouer.addEventListener("click", function () {
   // Réinitialisation des variables
+  modalDebut.classList.add("hidden");
   modalFin.classList.add("hidden");
-  document.querySelector(".timer").classList.remove("faction1");
+  document.querySelector(".timer").classList.remove("Horde");
   ligneAide.textContent = "";
   remainingTimeInSeconds = 181;
   cout = "Gratuit";
@@ -142,7 +143,6 @@ boutonRejouer.addEventListener("click", function () {
   liste = [];
   reponse.value = "";
   setTimeout(function () {
-    modalDebut.classList.add("hidden");
     document.querySelector(".icons").classList.remove("hidden");
     timerVideo.pause();
     timerVideo.classList.add("hidden");
@@ -191,7 +191,7 @@ function updateTimer() {
 
   if (remainingTimeInSeconds === 30) {
     bell.play();
-    document.querySelector(".timer").classList.add("faction1");
+    document.querySelector(".timer").classList.add("Horde");
   }
   if (remainingTimeInSeconds === 5) {
     finTimer.play();
