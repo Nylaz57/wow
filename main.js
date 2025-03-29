@@ -161,9 +161,9 @@ boutonRejouer.addEventListener("click", function () {
 
 // Affichez la modale au chargement de la page
 window.addEventListener("load", () => {
+  modalFin.classList.add("hidden");
   timerVideo.pause();
   timerVideo.classList.add("hidden");
-  modalFin.classList.add("hidden");
   imgs.classList.add("hidden");
   imgs2.classList.add("hidden");
   updateTimer();
