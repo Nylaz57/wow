@@ -70,6 +70,7 @@ function jouerMusiqueAleatoire() {
   const musiqueAleatoire = musiques[indexMusiqueAleatoire];
   // Mettez à jour la piste audio en cours de lecture
   musiqueEnCours = musiqueAleatoire;
+  musiqueAleatoire.volume = 0.75;
   // Lancer la lecture de la musique aléatoire
   musiqueAleatoire.play();
   // Ajouter un gestionnaire d'événement pour détecter la fin de la musique aléatoire
@@ -88,6 +89,7 @@ cout = 0;
 
 // Ajoutez un gestionnaire d'événements pour le bouton de démarrage
 boutonJouer.addEventListener("click", function () {
+  modalDebut.classList.add("hidden");
   ligneAide.textContent = "";
   boutons.classList.add("hidden");
   timerbadass.play();
@@ -98,7 +100,6 @@ boutonJouer.addEventListener("click", function () {
   setTimeout(function () {
     imgs.classList.remove("hidden");
     imgs2.classList.remove("hidden");
-    modalDebut.classList.add("hidden");
     // Affichez le contenu principal de la page
     // Démarrer le timer lorsque le bouton Jouer de la modale a été appuyer
     timerVideo.pause();
