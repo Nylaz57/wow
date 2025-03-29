@@ -1,0 +1,2384 @@
+[
+    {
+        "id":0,
+        "classe": "Druide",
+        "name": ["roder"],
+        "image": "1.png"
+    },
+    {
+        "id":1,
+        "classe": "Voleur",
+        "name": ["attaquesournoise"],
+        "image": "2.png"
+    },
+        {
+        "id":2,
+        "classe": "Guerrier",
+        "name": ["cridedefi"],
+        "image": "3.png"
+    },
+    {
+        "id":3,
+        "classe": "Voleur",
+        "name": ["coupbas"],
+        "image": "4.png"
+    },
+    {
+        "id":4,
+        "classe": "Guerrier",
+        "name": ["temerite"],
+        "image": "5.png"
+    },
+    {
+        "id":5,
+        "classe": "Guerrier",
+        "name": ["maitrisedublocage"],
+        "image": "6.png"
+    },
+    {
+        "id":6,
+        "classe": "Chasseur",
+        "name": ["intimidation"],
+        "image": "7.png"
+    },
+    {
+        "id":7,
+        "classe": "Druide",
+        "name": ["formeaquatique"],
+        "image": "8.png"
+    },
+    {
+        "id":8,
+        "classe": "Druide",
+        "name": ["sonner"],
+        "image": "9.png"
+    },
+    {
+        "id":9,
+        "classe": "Druide",
+        "name": ["formedefelin"],
+        "image": "10.png"
+    },
+    {
+        "id":10,
+        "classe": "Druide",
+        "name": ["rugissementprovocateur"],
+        "image": "11.png"
+    },
+    {
+        "id":11,
+        "classe": "Chasseur",
+        "name": ["effrayerunebete"],
+        "image": "12.png"
+    },
+    {
+        "id":12,
+        "classe": "Druide",
+        "name": ["derobade"],
+        "image": "12.png"
+    },
+    {
+        "id":13,
+        "classe": "Druide",
+        "name": ["celerite"],
+        "image": "13.png"
+    },
+    {
+        "id":14,
+        "classe": "Druide",
+        "name": ["griffure"],
+        "image": "14.png"
+    },
+    {
+        "id":15,
+        "classe": "Druide",
+        "name": ["enrager"],
+        "image": "15.png"
+    },
+    {
+        "id":16,
+        "classe": "Druide",
+        "name": ["morsureferoce"],
+        "image": "16.png"
+    },
+    {
+        "id":17,
+        "classe": "Chasseur",
+        "name": ["courrouxbestial"],
+        "image": "16.png"
+    },
+    {
+        "id":18,
+        "classe": "Druide",
+        "name": ["mutilation"],
+        "image": "17.png"
+    },
+    {
+        "id":19,
+        "classe": "Druide",
+        "name": ["mutiler"],
+        "image": "18.png"
+    },
+    {
+        "id":20,
+        "classe": "Druide",
+        "name": ["griffe"],
+        "image": "19.png"
+    },
+    {
+        "id":21,
+        "classe": "Druide",
+        "name": ["ravage"],
+        "image": "20.png"
+    },
+    {
+        "id":22,
+        "classe": "Druide",
+        "name": ["traquenard"],
+        "image": "21.png"
+    },
+    {
+        "id":23,
+        "classe": "Druide",
+        "name": ["formedevoyage"],
+        "image": "22.png"
+    },
+    {
+        "id":24,
+        "classe": "Chasseur",
+        "name": ["oeildelabete"],
+        "image": "23.png"
+    },
+    {
+        "id":25,
+        "classe": "Druide",
+        "name": ["dechirure"],
+        "image": "24.png"
+    },
+    {
+        "id":26,
+        "classe": "Chasseur",
+        "name": ["flechededispersion"],
+        "image": "25.png"
+    },
+    {
+        "id":27,
+        "classe": "Guerrier",
+        "name": ["crid'intimidation"],
+        "image": "26.png"
+    },
+    {
+        "id":28,
+        "classe": "Voleur",
+        "name": ["suriner"],
+        "image": "27.png"
+    },
+    {
+        "id":29,
+        "classe": "Guerrier",
+        "name": ["pourfendre"],
+        "image": "27.png"
+    },
+    {
+        "id":30,
+        "classe": "Chasseur",
+        "name": ["morsuredevipere"],
+        "image": "28.png"
+    },
+    {
+        "id":31,
+        "classe": "Chasseur",
+        "name": ["aspectdusinge"],
+        "image": "29.png"
+    },
+    {
+        "id":32,
+        "classe": "Chasseur",
+        "name": ["appeldufamilier"],
+        "image": "30.png"
+    },
+    {
+        "id":33,
+        "classe": "Chasseur",
+        "name": ["dressagedesbetes"],
+        "image": "31.png"
+    },
+    {
+        "id":34,
+        "classe": "Chasseur",
+        "name": ["ressusciterlefamilier"],
+        "image": "32.png"
+    },
+    {
+        "id":35,
+        "classe": "Druide",
+        "name": ["apaiserlesanimaux"],
+        "image": "32.png"
+    },
+    {
+        "id":36,
+        "classe": "Chasseur",
+        "name": ["apprivoiserunebete"],
+        "image": "33.png"
+    },
+    {
+        "id":37,
+        "classe": "Chasseur",
+        "name": ["nourrirlefamilier"],
+        "image": "34.png"
+    },
+    {
+        "id":38,
+        "classe": "Chasseur",
+        "name": ["piquredescorpide"],
+        "image": "35.png"
+    },
+    {
+        "id":39,
+        "classe": "Chasseur",
+        "name": ["oeild'aigle"],
+        "image": "36.png"
+    },
+    {
+        "id":40,
+        "classe": "Chasseur",
+        "name": ["morsuredeserpent"],
+        "image": "38.png"
+    },
+    {
+        "id":41,
+        "classe": "Chasseur",
+        "name": ["tirrapide"],
+        "image": "39.png"
+    },
+    {
+        "id":42,
+        "classe": "Chasseur",
+        "name": ["marqueduchasseur"],
+        "image": "40.png"
+    },
+    {
+        "id":43,
+        "classe": "Chasseur",
+        "name": ["morsuredelamangouste"],
+        "image": "41.png"
+    },
+    {
+        "id":44,
+        "classe": "Chasseur",
+        "name": ["tirdesarcanes"],
+        "image": "42.png"
+    },
+    {
+        "id":45,
+        "classe": "Voleur",
+        "name": ["coupdepied"],
+        "image": "43.png"
+    },
+    {
+        "id":46,
+        "classe": "Chasseur",
+        "name": ["attaqueduraptor"],
+        "image": "44.png"
+    },
+    {
+        "id":47,
+        "classe": "Chasseur",
+        "name": ["connaissancedesbetes"],
+        "image": "45.png"
+    },
+    {
+        "id":48,
+        "classe": "Druide",
+        "name": ["grondement"],
+        "image": "45.png"
+    },
+    {
+        "id":49,
+        "classe": "Voleur",
+        "name": ["poisoninstantane"],
+        "image": "46.png"
+    },
+    {
+        "id":50,
+        "classe": "Voleur",
+        "name": ["poisonaffaiblissant"],
+        "image": "47.png"
+    },
+    {
+        "id":51,
+        "classe": "Chasseur",
+        "name": ["pistagedesgeants"],
+        "image": "48.png"
+    },
+    {
+        "id":52,
+        "classe": "Guerrier",
+        "name": ["postureberserker"],
+        "image": "48.png"
+    },
+    {
+        "id":53,
+        "classe": "Druide",
+        "name": ["formed'ours"],
+        "image": "49.png"
+    },
+    {
+        "id":54,
+        "classe": "Guerrier",
+        "name": ["ragesanguinaire"],
+        "image": "50.png"
+    },
+    {
+        "id":55,
+        "classe": "Voleur",
+        "name": ["embuscade"],
+        "image": "51.png"
+    },
+    {
+        "id":56,
+        "classe": "Guerrier",
+        "name": ["frappeheroique"],
+        "image": "51.png"
+    },
+    {
+        "id":57,
+        "classe": "Voleur",
+        "name": ["distraction"],
+        "image": "52.png"
+    },
+    {
+        "id":58,
+        "classe": "Voleur",
+        "name": ["poisonmortel"],
+        "image": "53.png"
+    },
+    {
+        "id":59,
+        "classe": "Voleur",
+        "name": ["evisceration"],
+        "image": "54.png"
+    },
+    {
+        "id":60,
+        "classe": "Chasseur",
+        "name": ["feindrelamort"],
+        "image": "55.png"
+    },
+    {
+        "id":61,
+        "classe": "Chasseur",
+        "name": ["desengagement"],
+        "image": "56.png"
+    },
+    {
+        "id":62,
+        "classe": "Voleur",
+        "name": ["feinte"],
+        "image": "56.png"
+    },
+    {
+        "id":63,
+        "classe": "Voleur",
+        "name": ["garrot"],
+        "image": "57.png"
+    },
+    {
+        "id":64,
+        "classe": "Voleur",
+        "name": ["aiguillonperfide"],
+        "image": "58.png"
+    },
+    {
+        "id":65,
+        "classe": "Voleur",
+        "name": ["rupture"],
+        "image": "59.png"
+    },
+    {
+        "id":66,
+        "classe": "Voleur",
+        "name": ["debiter"],
+        "image": "60.png"
+    },
+    {
+        "id":67,
+        "classe": "Guerrier",
+        "name": ["attaquescirculaires"],
+        "image": "60.png"
+    },
+    {
+        "id":68,
+        "classe": "Guerrier",
+        "name": ["interception"],
+        "image": "61.png"
+    },
+    {
+        "id":69,
+        "classe": "Voleur",
+        "name": ["sprint"],
+        "image": "61.png"
+    },
+    {
+        "id":70,
+        "classe": "Chasseur",
+        "name": ["coupured'ailes"],
+        "image": "62.png"
+    },
+    {
+        "id":71,
+        "classe": "Voleur",
+        "name": ["assommer"],
+        "image": "63.png"
+    },
+    {
+        "id":72,
+        "classe": "Guerrier",
+        "name": ["brisegenou"],
+        "image": "64.png"
+    },
+    {
+        "id":73,
+        "classe": "Voleur",
+        "name": ["camouflage"],
+        "image": "65.png"
+    },
+    {
+        "id":74,
+        "classe": "Guerrier",
+        "name": ["couptraumatisant"],
+        "image": "66.png"
+    },
+    {
+        "id":75,
+        "classe": "Paladin",
+        "name": ["sceaudepiete"],
+        "image": "66.png"
+    },
+    {
+        "id":76,
+        "classe": "Paladin",
+        "name": ["marteaudecourroux"],
+        "image": "67.png"
+    },
+    {
+        "id":77,
+        "classe": "Chasseur",
+        "name": ["pistagedesbetes"],
+        "image": "68.png"
+    },
+    {
+        "id":78,
+        "classe": "Druide",
+        "name": ["pistagedeshumanoides"],
+        "image": "68.png"
+    },
+    {
+        "id":79,
+        "classe": "Chasseur",
+        "name": ["auradeprecision"],
+        "image": "69.png"
+    },
+    {
+        "id":80,
+        "classe": "Chasseur",
+        "name": ["flechesmultiples"],
+        "image": "70.png"
+    },
+    {
+        "id":81,
+        "classe": "Voleur",
+        "name": ["disparition"],
+        "image": "71.png"
+    },
+    {
+        "id":82,
+        "classe": "Guerrier",
+        "name": ["crideguerre"],
+        "image": "72.png"
+    },
+    {
+        "id":83,
+        "classe": "Guerrier",
+        "name": ["represailles"],
+        "image": "73.png"
+    },
+    {
+        "id":84,
+        "classe": "Voleur",
+        "name": ["riposte"],
+        "image": "73.png"
+    },
+    {
+        "id":85,
+        "classe": "Chasseur",
+        "name": ["contreattaque"],
+        "image": "73.png"
+    },
+    {
+        "id":86,
+        "classe": "Guerrier",
+        "name": ["charge"],
+        "image": "74.png"
+    },
+    {
+        "id":87,
+        "classe": "Guerrier",
+        "name": ["enchainement"],
+        "image": "75.png"
+    },
+    {
+        "id":88,
+        "classe": "Guerrier",
+        "name": ["heurtoir"],
+        "image": "76.png"
+    },
+    {
+        "id":89,
+        "classe": "Guerrier",
+        "name": ["posturedefensive"],
+        "image": "77.png"
+    },
+    {
+        "id":90,
+        "classe": "Guerrier",
+        "name": ["desarmement"],
+        "image": "78.png"
+    },
+    {
+        "id":91,
+        "classe": "Paladin",
+        "name": ["sceaud'autorite"],
+        "image": "79.png"
+    },
+    {
+        "id":92,
+        "classe": "Guerrier",
+        "name": ["couprailleur"],
+        "image": "81.png"
+    },
+    {
+        "id":93,
+        "classe": "Guerrier",
+        "name": ["vengeance"],
+        "image": "82.png"
+    },
+    {
+        "id":94,
+        "classe": "Voleur",
+        "name": ["exposerl'armure"],
+        "image": "83.png"
+    },
+    {
+        "id":95,
+        "classe": "Guerrier",
+        "name": ["frappemortelle"],
+        "image": "84.png"
+    },
+    {
+        "id":96,
+        "classe": "Guerrier",
+        "name": ["coupdebouclier"],
+        "image": "85.png"
+    },
+    {
+        "id":97,
+        "classe": "Guerrier",
+        "name": ["murprotecteur"],
+        "image": "86.png"
+    },
+    {
+        "id":98,
+        "classe": "Guerrier",
+        "name": ["fracasserarmure"],
+        "image": "87.png"
+    },
+    {
+        "id":99,
+        "classe": "Guerrier",
+        "name": ["intervention"],
+        "image": "88.png"
+    },
+    {
+        "id":100,
+        "classe": "Guerrier",
+        "name": ["cridemoralisant"],
+        "image": "89.png"
+    },
+    {
+        "id":101,
+        "classe": "Chasseur",
+        "name": ["dissuasion"],
+        "image": "90.png"
+    },
+    {
+        "id":102,
+        "classe": "Guerrier",
+        "name": ["tourbillon"],
+        "image": "90.png"
+    },
+    {
+        "id":103,
+        "classe": "Chasseur",
+        "name": ["traitprovocateur"],
+        "image": "91.png"
+    },
+    {
+        "id":104,
+        "classe": "Mage",
+        "name": ["transfert"],
+        "image": "91.png"
+    },
+    {
+        "id":105,
+        "classe": "Mage",
+        "name": ["portaildarnassus"],
+        "image": "92.png"
+    },
+    {
+        "id":106,
+        "classe": "Mage",
+        "name": ["portailironforge","portailforgefer"],
+        "image": "93.png"
+    },
+    {
+        "id":107,
+        "classe": "Mage",
+        "name": ["portailorgrimmar"],
+        "image": "94.png"
+    },
+    {
+        "id":108,
+        "classe": "Mage",
+        "name": ["portailstormwind","portailhurlevent"],
+        "image": "95.png"
+    },
+    {
+        "id":109,
+        "classe": "Mage",
+        "name": ["portailthunderbluff","portailpitonsdutonnerre"],
+        "image": "96.png"
+    },
+    {
+        "id":110,
+        "classe": "Mage",
+        "name": ["portailundercity","portailfossoyeuse"],
+        "image": "97.png"
+    },
+    {
+        "id":111,
+        "classe": "Druide",
+        "name": ["feustellaire"],
+        "image": "98.png"
+    },
+    {
+        "id":112,
+        "classe": "Prêtre",
+        "name": ["eclatsstellaires"],
+        "image": "98.png"
+    },
+    {
+        "id":113,
+        "classe": "Mage",
+        "name": ["teleportationdarnassus"],
+        "image": "99.png"
+    },
+    {
+        "id":114,
+        "classe": "Mage",
+        "name": ["teleportationironforge","teleportationforgefer"],
+        "image": "100.png"
+    },
+    {
+        "id":115,
+        "classe": "Druide",
+        "name": ["teleportationrefletdelune"],
+        "image": "101.png"
+    },
+    {
+        "id":116,
+        "classe": "Mage",
+        "name": ["teleportationorgrimmar"],
+        "image": "102.png"
+    },
+    {
+        "id":117,
+        "classe": "Mage",
+        "name": ["teleportationstormwind","teleportationhurlevent"],
+        "image": "103.png"
+    },
+    {
+        "id":118,
+        "classe": "Mage",
+        "name": ["teleportationthunderbluff","teleportationpitonsdutonnerre"],
+        "image": "104.png"
+    },
+    {
+        "id":119,
+        "classe": "Mage",
+        "name": ["teleportationundercity","teleportationfossoyeuse"],
+        "image": "105.png"
+    },
+    {
+        "id":120,
+        "classe": "Chaman",
+        "name": ["totemderesistanceaufeu"],
+        "image": "106.png"
+    },
+    {
+        "id":121,
+        "classe": "Mage",
+        "name": ["gardiendefeu"],
+        "image": "107.png"
+    },
+    {
+        "id":122,
+        "classe": "Démoniste",
+        "name": ["conflagration"],
+        "image": "108.png"
+    },
+    {
+        "id":123,
+        "classe": "Mage",
+        "name": ["traitdefeu"],
+        "image": "108.png"
+    },
+    {
+        "id":124,
+        "classe": "Mage",
+        "name": ["explosionpyrotechnique"],
+        "image": "109.png"
+    },
+    {
+        "id":125,
+        "classe": "Démoniste",
+        "name": ["feudel'ame"],
+        "image": "109.png"
+    },
+    {
+        "id":126,
+        "classe": "Mage",
+        "name": ["bouledefeu"],
+        "image": "110.png"
+    },
+    {
+        "id":127,
+        "classe": "Chasseur",
+        "name": ["pieged'immolation"],
+        "image": "111.png"
+    },
+    {
+        "id":128,
+        "classe": "Chaman",
+        "name": ["horiondeflammes"],
+        "image": "111.png"
+    },
+    {
+        "id":129,
+        "classe": "Chaman",
+        "name": ["armelanguedefeu"],
+        "image": "112.png"
+    },
+    {
+        "id":130,
+        "classe": "Chasseur",
+        "name": ["fuseeeclairante"],
+        "image": "113.png"
+    },
+    {
+        "id":131,
+        "classe": "Démoniste",
+        "name": ["immolation"],
+        "image": "114.png"
+    },
+    {
+        "id":132,
+        "classe": "Démoniste",
+        "name": ["flammesinfernales"],
+        "image": "115.png"
+    },
+    {
+        "id":134,
+        "classe": "Chaman",
+        "name": ["totemnovadefeu"],
+        "image": "116.png"
+    },
+    {
+        "id":135,
+        "classe": "Mage",
+        "name": ["combustion"],
+        "image": "116.png"
+    },
+    {
+        "id":136,
+        "classe": "Paladin",
+        "name": ["auraderesistanceaufeu"],
+        "image": "116.png"
+    },
+    {
+        "id":137,
+        "classe": "Chaman",
+        "name": ["totemincendiaire"],
+        "image": "117.png"
+    },
+    {
+        "id":138,
+        "classe": "Chasseur",
+        "name": ["piegeexplosif"],
+        "image": "118.png"
+    },
+    {
+        "id":139,
+        "classe": "Mage",
+        "name": ["chocdeflammes"],
+        "image": "118.png"
+    },
+    {
+        "id":140,
+        "classe": "Mage",
+        "name": ["brulure"],
+        "image": "119.png"
+    },
+    {
+        "id":141,
+        "classe": "Démoniste",
+        "name": ["douleurbrulante"],
+        "image": "119.png"
+    },
+    {
+        "id":142,
+        "classe": "Chaman",
+        "name": ["totemderesistanceaugivre"],
+        "image": "120.png"
+    },
+    {
+        "id":143,
+        "classe": "Chasseur",
+        "name": ["piegegivrant"],
+        "image": "121.png"
+    },
+    {
+        "id":144,
+        "classe": "Mage",
+        "name": ["blocdeglace"],
+        "image": "122.png"
+    },
+    {
+        "id":145,
+        "classe": "Mage",
+        "name": ["armuredegivre","armuredeglace"],
+        "image": "123.png"
+    },
+    {
+        "id":146,
+        "classe": "Mage",
+        "name": ["eclairdegivre"],
+        "image": "124.png"
+    },
+    {
+        "id":147,
+        "classe": "Chaman",
+        "name": ["armedegivre"],
+        "image": "125.png"
+    },
+    {
+        "id":148,
+        "classe": "Mage",
+        "name": ["novadegivre"],
+        "image": "126.png"
+    },
+    {
+        "id":149,
+        "classe": "Chasseur",
+        "name": ["piegedegivre"],
+        "image": "126.png"
+    },
+    {
+        "id":150,
+        "classe": "Chaman",
+        "name": ["horiondegivre"],
+        "image": "127.png"
+    },
+    {
+        "id":151,
+        "classe": "Mage",
+        "name": ["gardiendegivre"],
+        "image": "128.png"
+    },
+    {
+        "id":152,
+        "classe": "Mage",
+        "name": ["conedefroid"],
+        "image": "129.png"
+    },
+    {
+        "id":153,
+        "classe": "Mage",
+        "name": ["contresort"],
+        "image": "130.png"
+    },
+    {
+        "id":154,
+        "classe": "Mage",
+        "name": ["blizzard"],
+        "image": "131.png"
+    },
+    {
+        "id":155,
+        "classe": "Chasseur",
+        "name": ["traitdechoc"],
+        "image": "132.png"
+    },
+    {
+        "id":157,
+        "classe": "Chasseur",
+        "name": ["pistagedeselementaires"],
+        "image": "133.png"
+    },
+    {
+        "id":158,
+        "classe": "Chaman",
+        "name": ["totemdevaguedemana"],
+        "image": "133.png"
+    },
+    {
+        "id":159,
+        "classe": "Prêtre",
+        "name": ["focalisationamelioree"],
+        "image": "134.png"
+    },
+    {
+        "id":160,
+        "classe": "Chaman",
+        "name": ["marchesurl'eau"],
+        "image": "134.png"
+    },
+    {
+        "id":161,
+        "classe": "Paladin",
+        "name": ["auraderesistanceaugivre"],
+        "image": "135.png"
+    },
+    {
+        "id":162,
+        "classe": "Mage",
+        "name": ["illuminationdesarcanes"],
+        "image": "136.png"
+    },
+    {
+        "id":163,
+        "classe": "Guerrier",
+        "name": ["dernierrempart"],
+        "image": "137.png"
+    },
+    {
+        "id":163,
+        "classe": "Guerrier",
+        "name": ["posturedecombat"],
+        "image": "80.png"
+    },
+    {
+        "id":165,
+        "classe": "Paladin",
+        "name": ["auradevindicte"],
+        "image": "138.png"
+    },
+    {
+        "id":166,
+        "classe": "Paladin",
+        "name": ["boucliersacre"],
+        "image": "139.png"
+    },
+    {
+        "id":167,
+        "classe": "Paladin",
+        "name": ["auradedevotion"],
+        "image": "140.png"
+    },
+    {
+        "id":168,
+        "classe": "Prêtre",
+        "name": ["dissipationdelamagie"],
+        "image": "141.png"
+    },
+    {
+        "id":169,
+        "classe": "Paladin",
+        "name": ["bouclierdivin"],
+        "image": "142.png"
+    },
+    {
+        "id":170,
+        "classe": "Prêtre",
+        "name": ["espritdivin"],
+        "image": "143.png"
+    },
+    {
+        "id":171,
+        "classe": "Mage",
+        "name": ["detectiondelamagie"],
+        "image": "144.png"
+    },
+    {
+        "id":172,
+        "classe": "Prêtre",
+        "name": ["graced'elune"],
+        "image": "145.png"
+    },
+    {
+        "id":173,
+        "classe": "Prêtre",
+        "name": ["gardiendepeur"],
+        "image": "146.png"
+    },
+    {
+        "id":174,
+        "classe": "Paladin",
+        "name": ["coleredivine"],
+        "image": "146.png"
+    },
+    {
+        "id":175,
+        "classe": "Mage",
+        "name": ["vagueexplosive"],
+        "image": "147.png"
+    },
+    {
+        "id":176,
+        "classe": "Paladin",
+        "name": ["exorcisme"],
+        "image": "147.png"
+    },
+    {
+        "id":177,
+        "classe": "Paladin",
+        "name": ["benedictiondepuissance"],
+        "image": "148.png"
+    },
+    {
+        "id":178,
+        "classe": "Prêtre",
+        "name": ["soinsrapides"],
+        "image": "149.png"
+    },
+    {
+        "id":179,
+        "classe": "Paladin",
+        "name": ["eclairlumineux"],
+        "image": "149.png"
+    },
+    {
+        "id":180,
+        "classe": "Mage",
+        "name": ["amplificationdelamagie"],
+        "image": "149.png"
+    },
+    {
+        "id":181,
+        "classe": "Paladin",
+        "name": ["benedictiondepuissancesuperieure"],
+        "image": "150.png"
+    },
+    {
+        "id":182,
+        "classe": "Paladin",
+        "name": ["benedictiondelumieresuperieure"],
+        "image": "151.png"
+    },
+    {
+        "id":183,
+        "classe": "Paladin",
+        "name": ["benedictiondusanctuairesuperieure"],
+        "image": "153.png"
+    },
+    {
+        "id":184,
+        "classe": "Paladin",
+        "name": ["benedictiondesagessesuperieure"],
+        "image": "154.png"
+    },
+    {
+        "id":185,
+        "classe": "Prêtre",
+        "name": ["soinssuperieurs"],
+        "image": "155.png"
+    },
+    {
+        "id":186,
+        "classe": "Paladin",
+        "name": ["faveurdivine"],
+        "image": "156.png"
+    },
+    {
+        "id":187,
+        "classe": "Prêtre",
+        "name": ["soins"],
+        "image": "156.png"
+    },
+    {
+        "id":188,
+        "classe": "Paladin",
+        "name": ["sceaudelumiere"],
+        "image": "157.png"
+    },
+    {
+        "id":189,
+        "classe": "Paladin",
+        "name": ["lumieresacree"],
+        "image": "158.png"
+    },
+    {
+        "id":190,
+        "classe": "Prêtre",
+        "name": ["novasacree"],
+        "image": "159.png"
+    },
+    {
+        "id":191,
+        "classe": "Prêtre",
+        "name": ["chatiment"],
+        "image": "160.png"
+    },
+    {
+        "id":192,
+        "classe": "Paladin",
+        "name": ["sceauducroise"],
+        "image": "160.png"
+    },
+    {
+        "id":193,
+        "classe": "Paladin",
+        "name": ["consecration"],
+        "image": "161.png"
+    },
+    {
+        "id":194,
+        "classe": "Prêtre",
+        "name": ["feuinterieur"],
+        "image": "161.png"
+    },
+    {
+        "id":195,
+        "classe": "Prêtre",
+        "name": ["levitation"],
+        "image": "162.png"
+    },
+    {
+        "id":196,
+        "classe": "Paladin",
+        "name": ["impositiondesmains"],
+        "image": "162.png"
+    },
+    {
+        "id":197,
+        "classe": "Prêtre",
+        "name": ["soinsinferieurs"],
+        "image": "163.png"
+    },
+    {
+        "id":198,
+        "classe": "Mage",
+        "name": ["intelligencedesarcanes"],
+        "image": "164.png"
+    },
+    {
+        "id":199,
+        "classe": "Prêtre",
+        "name": ["apaisement"],
+        "image": "165.png"
+    },
+    {
+        "id":200,
+        "classe": "Paladin",
+        "name": ["auradeconcentration"],
+        "image": "165.png"
+    },
+    {
+        "id":201,
+        "classe": "Prêtre",
+        "name": ["visiontelepathique"],
+        "image": "166.png"
+    },
+    {
+        "id":202,
+        "classe": "Prêtre",
+        "name": ["guerisondesmaladies"],
+        "image": "167.png"
+    },
+    {
+        "id":203,
+        "classe": "Prêtre",
+        "name": ["guerisondesmaladies"],
+        "image": "167.png"
+    },
+    {
+        "id":204,
+        "classe": "Prêtre",
+        "name": ["infusiondepuissance"],
+        "image": "168.png"
+    },
+    {
+        "id":205,
+        "classe": "Prêtre",
+        "name": ["motdepouvoirbouclier"],
+        "image": "169.png"
+    },
+    {
+        "id":206,
+        "classe": "Prêtre",
+        "name": ["prierederobustesse"],
+        "image": "170.png"
+    },
+    {
+        "id":207,
+        "classe": "Paladin",
+        "name": ["repentir"],
+        "image": "171.png"
+    },
+    {
+        "id":208,
+        "classe": "Chasseur",
+        "name": ["pistagedeshumanoides"],
+        "image": "171.png"
+    },
+    {
+        "id":209,
+        "classe": "Prêtre",
+        "name": ["prieredesoins"],
+        "image": "172.png"
+    },
+    {
+        "id":210,
+        "classe": "Paladin",
+        "name": ["benedictiondelumiere"],
+        "image": "172.png"
+    },
+    {
+        "id":211,
+        "classe": "Prêtre",
+        "name": ["prieredeprotectioncontrel'ombre"],
+        "image": "173.png"
+    },
+    {
+        "id":212,
+        "classe": "Prêtre",
+        "name": ["priered'esprit"],
+        "image": "174.png"
+    },
+    {
+        "id":213,
+        "classe": "Paladin",
+        "name": ["purification"],
+        "image": "175.png"
+    },
+    {
+        "id":214,
+        "classe": "Druide",
+        "name": ["delivrancedelamalediction"],
+        "image": "176.png"
+    },
+    {
+        "id":215,
+        "classe": "Prêtre",
+        "name": ["renovation"],
+        "image": "177.png"
+    },
+    {
+        "id":216,
+        "classe": "Paladin",
+        "name": ["epuration"],
+        "image": "177.png"
+    },
+    {
+        "id":217,
+        "classe": "Prêtre",
+        "name": ["prieredudesespoir"],
+        "image": "178.png"
+    },
+    {
+        "id":218,
+        "classe": "Paladin",
+        "name": ["protectiondivine"],
+        "image": "178.png"
+    },
+    {
+        "id":219,
+        "classe": "Paladin",
+        "name": ["redemption"],
+        "image": "179.png"
+    },
+    {
+        "id":220,
+        "classe": "Prêtre",
+        "name": ["resurrection"],
+        "image": "179.png"
+    },
+    {
+        "id":221,
+        "classe": "Paladin",
+        "name": ["jugement"],
+        "image": "180.png"
+    },
+    {
+        "id":222,
+        "classe": "Paladin",
+        "name": ["sceaudesagesse"],
+        "image": "181.png"
+    },
+    {
+        "id":223,
+        "classe": "Paladin",
+        "name": ["fureurvertueuse"],
+        "image": "182.png"
+    },
+    {
+        "id":224,
+        "classe": "Paladin",
+        "name": ["marteaudelajustice"],
+        "image": "183.png"
+    },
+    {
+        "id":225,
+        "classe": "Paladin",
+        "name": ["benedictiondeprotection"],
+        "image": "184.png"
+    },
+    {
+        "id":226,
+        "classe": "Paladin",
+        "name": ["benedictiondesacrifice"],
+        "image": "185.png"
+    },
+    {
+        "id":227,
+        "classe": "Paladin",
+        "name": ["benedictiondesalut"],
+        "image": "186.png"
+    },
+    {
+        "id":228,
+        "classe": "Paladin",
+        "name": ["benedictiondeliberte"],
+        "image": "187.png"
+    },
+    {
+        "id":229,
+        "classe": "Paladin",
+        "name": ["benedictiondesagesse"],
+        "image": "188.png"
+    },
+    {
+        "id":230,
+        "classe": "Paladin",
+        "name": ["sceaudejustice"],
+        "image": "189.png"
+    },
+    {
+        "id":231,
+        "classe": "Paladin",
+        "name": ["benedictiondesalutsuperieure"],
+        "image": "152.png"
+    },
+    {
+        "id":232,
+        "classe": "Prêtre",
+        "name": ["flammessacrees"],
+        "image": "190.png"
+    },
+    {
+        "id":233,
+        "classe": "Paladin",
+        "name": ["horionsacre"],
+        "image": "190.png"
+    },
+    {
+        "id":234,
+        "classe": "Paladin",
+        "name": ["detectiondesmortsvivants"],
+        "image": "191.png"
+    },
+    {
+        "id":235,
+        "classe": "Prêtre",
+        "name": ["puitsdelumiere"],
+        "image": "192.png"
+    },
+    {
+        "id":236,
+        "classe": "Paladin",
+        "name": ["renvoidesmortsvivants"],
+        "image": "193.png"
+    },
+    {
+        "id":237,
+        "classe": "Prêtre",
+        "name": ["motdepouvoirrobustesse"],
+        "image": "194.png"
+    },
+    {
+        "id":238,
+        "classe": "Voleur",
+        "name": ["sangfroid"],
+        "image": "195.png"
+    },
+    {
+        "id":239,
+        "classe": "Mage",
+        "name": ["barrieredeglace"],
+        "image": "195.png"
+    },
+    {
+        "id":240,
+        "classe": "Mage",
+        "name": ["armuredumage"],
+        "image": "196.png"
+    },
+    {
+        "id":241,
+        "classe": "Mage",
+        "name": ["chutelente"],
+        "image": "197.png"
+    },
+    {
+        "id":242,
+        "classe": "Paladin",
+        "name": ["benedictiondesroissuperieure"],
+        "image": "198.png"
+    },
+    {
+        "id":243,
+        "classe": "Prêtre",
+        "name": ["oubli"],
+        "image": "199.png"
+    },
+    {
+        "id":244,
+        "classe": "Paladin",
+        "name": ["benedictiondesrois"],
+        "image": "200.png"
+    },
+    {
+        "id":245,
+        "classe": "Druide",
+        "name": ["colere"],
+        "image": "201.png"
+    },
+    {
+        "id":246,
+        "classe": "Mage",
+        "name": ["attenuationdelamagie"],
+        "image": "201.png"
+    },
+    {
+        "id":247,
+        "classe": "Guerrier",
+        "name": ["rageberserker"],
+        "image": "202.png"
+    },
+    {
+        "id":248,
+        "classe": "Chaman",
+        "name": ["rappelastral"],
+        "image": "203.png"
+    },
+    {
+        "id":249,
+        "classe": "Guerrier",
+        "name": ["sanguinaire"],
+        "image": "204.png"
+    },
+    {
+        "id":250,
+        "classe": "Chaman",
+        "name": ["totemdetranquillitedel'air"],
+        "image": "205.png"
+    },
+    {
+        "id":251,
+        "classe": "Chaman",
+        "name": ["chained'eclairs"],
+        "image": "206.png"
+    },
+    {
+        "id":252,
+        "classe": "Druide",
+        "name": ["auguredeclarte"],
+        "image": "207.png"
+    },
+    {
+        "id":253,
+        "classe": "Druide",
+        "name": ["ouragan"],
+        "image": "208.png"
+    },
+    {
+        "id":254,
+        "classe": "Chaman",
+        "name": ["armefuriedesvents"],
+        "image": "208.png"
+    },
+    {
+        "id":255,
+        "classe": "Chaman",
+        "name": ["totemdepurificationdesmaladies"],
+        "image": "209.png"
+    },
+    {
+        "id":256,
+        "classe": "Chasseur",
+        "name": ["tirtranquillisant"],
+        "image": "210.png"
+    },
+    {
+        "id":257,
+        "classe": "Chaman",
+        "name": ["totemdemurdesvents"],
+        "image": "211.png"
+    },
+    {
+        "id":258,
+        "classe": "Chaman",
+        "name": ["totemdeforcedelaterre"],
+        "image": "212.png"
+    },
+    {
+        "id":259,
+        "classe": "Chaman",
+        "name": ["horiondeterre"],
+        "image": "213.png"
+    },
+    {
+        "id":260,
+        "classe": "Mage",
+        "name": ["presencespirituelle"],
+        "image": "214.png"
+    },
+    {
+        "id":261,
+        "classe": "Druide",
+        "name": ["lucioles"],
+        "image": "215.png"
+    },
+    {
+        "id":262,
+        "classe": "Chaman",
+        "name": ["doublevue"],
+        "image": "216.png"
+    },
+    {
+        "id":263,
+        "classe": "Druide",
+        "name": ["formedeselenien"],
+        "image": "217.png"
+    },
+    {
+        "id":264,
+        "classe": "Chaman",
+        "name": ["totemdeglebe"],
+        "image": "218.png"
+    },
+    {
+        "id":265,
+        "classe": "Chaman",
+        "name": ["totemlanguedefeu"],
+        "image": "219.png"
+    },
+    {
+        "id":266,
+        "classe": "Druide",
+        "name": ["toucherguerisseur"],
+        "image": "220.png"
+    },
+    {
+        "id":267,
+        "classe": "Chaman",
+        "name": ["salvedeguerison"],
+        "image": "221.png"
+    },
+    {
+        "id":268,
+        "classe": "Chaman",
+        "name": ["vaguedesoinsinferieurs"],
+        "image": "222.png"
+    },
+    {
+        "id":269,
+        "classe": "Druide",
+        "name": ["essaimd'insectes"],
+        "image": "223.png"
+    },
+    {
+        "id":270,
+        "classe": "Chaman",
+        "name": ["totemdegraceaerienne"],
+        "image": "224.png"
+    },
+    {
+        "id":271,
+        "classe": "Chaman",
+        "name": ["eclair"],
+        "image": "225.png"
+    },
+    {
+        "id":272,
+        "classe": "Mage",
+        "name": ["pouvoirdesarcanes"],
+        "image": "225.png"
+    },
+    {
+        "id":273,
+        "classe": "Druide",
+        "name": ["innervation"],
+        "image": "225.png"
+    },
+    {
+        "id":274,
+        "classe": "Paladin",
+        "name": ["benedictiondusanctuaire"],
+        "image": "226.png"
+    },
+    {
+        "id":275,
+        "classe": "Chaman",
+        "name": ["bouclierdefoudre"],
+        "image": "226.png"
+    },
+    {
+        "id":276,
+        "classe": "Prêtre",
+        "name": ["gardedel'ombre"],
+        "image": "226.png"
+    },
+    {
+        "id":277,
+        "classe": "Chaman",
+        "name": ["vaguedesoins"],
+        "image": "227.png"
+    },
+    {
+        "id":278,
+        "classe": "Chaman",
+        "name": ["totemfontainedemana"],
+        "image": "228.png"
+    },
+    {
+        "id":279,
+        "classe": "Chaman",
+        "name": ["totemderesistancealanature"],
+        "image": "229.png"
+    },
+    {
+        "id":280,
+        "classe": "Druide",
+        "name": ["emprisedelanature"],
+        "image": "230.png"
+    },
+    {
+        "id":281,
+        "classe": "Voleur",
+        "name": ["poisondedistractionmentale"],
+        "image": "231.png"
+    },
+    {
+        "id":282,
+        "classe": "Druide",
+        "name": ["guerisondupoison"],
+        "image": "232.png"
+    },
+    {
+        "id":283,
+        "classe": "Chaman",
+        "name": ["guerisondupoison"],
+        "image": "232.png"
+    },
+    {
+        "id":284,
+        "classe": "Druide",
+        "name": ["abolirlepoison"],
+        "image": "233.png"
+    },
+    {
+        "id":285,
+        "classe": "Chaman",
+        "name": ["totemdepurificationdupoison"],
+        "image": "234.png"
+    },
+    {
+        "id":286,
+        "classe": "Mage",
+        "name": ["metamorphose"],
+        "image": "235.png"
+    },
+    {
+        "id":287,
+        "classe": "Chasseur",
+        "name": ["aspectdelanature"],
+        "image": "236.png"
+    },
+    {
+        "id":288,
+        "classe": "Chaman",
+        "name": ["expiation"],
+        "image": "237.png"
+    },
+    {
+        "id":289,
+        "classe": "Mage",
+        "name": ["evocation"],
+        "image": "237.png"
+    },
+    {
+        "id":290,
+        "classe": "Mage",
+        "name": ["evocation"],
+        "image": "237.png"
+    },
+    {
+        "id":291,
+        "classe": "Chaman",
+        "name": ["rapiditedelanature"],
+        "image": "238.png"
+    },
+    {
+        "id":292,
+        "classe": "Druide",
+        "name": ["rapiditedelanature"],
+        "image": "238.png"
+    },
+    {
+        "id":293,
+        "classe": "Chasseur",
+        "name": ["aspectdufaucon"],
+        "image": "238.png"
+    },
+    {
+        "id":294,
+        "classe": "Chaman",
+        "name": ["espritancestral"],
+        "image": "239.png"
+    },
+    {
+        "id":295,
+        "classe": "Druide",
+        "name": ["marquedufauve","dondufauve"],
+        "image": "240.png"
+    },
+    {
+        "id":296,
+        "classe": "Druide",
+        "name": ["renaissance"],
+        "image": "241.png"
+    },
+    {
+        "id":297,
+        "classe": "Chaman",
+        "name": ["reincarnation"],
+        "image": "241.png"
+    },
+    {
+        "id":298,
+        "classe": "Guerrier",
+        "name": ["provocation"],
+        "image": "241.png"
+    },
+    {
+        "id":299,
+        "classe": "Druide",
+        "name": ["recuperation"],
+        "image": "242.png"
+    },
+    {
+        "id":300,
+        "classe": "Chaman",
+        "name": ["totemsentinelle"],
+        "image": "243.png"
+    },
+    {
+        "id":301,
+        "classe": "Démoniste",
+        "name": ["dominationcorrompue"],
+        "image": "243.png"
+    },
+    {
+        "id":302,
+        "classe": "Mage",
+        "name": ["delivrancedelamaledictionmineure"],
+        "image": "243.png"
+    },
+    {
+        "id":303,
+        "classe": "Chaman",
+        "name": ["guerisondesmaladies"],
+        "image": "244.png"
+    },
+    {
+        "id":304,
+        "classe": "Druide",
+        "name": ["retablissement"],
+        "image": "245.png"
+    },
+    {
+        "id":305,
+        "classe": "Chaman",
+        "name": ["armecroqueroc"],
+        "image": "246.png"
+    },
+    {
+        "id":306,
+        "classe": "Druide",
+        "name": ["hibernation"],
+        "image": "247.png"
+    },
+    {
+        "id":307,
+        "classe": "Prêtre",
+        "name": ["entravesdesmortsvivants"],
+        "image": "248.png"
+    },
+    {
+        "id":308,
+        "classe": "Chaman",
+        "name": ["loupfantome"],
+        "image": "249.png"
+    },
+    {
+        "id":309,
+        "classe": "Chasseur",
+        "name": ["renvoyerlefamilier"],
+        "image": "249.png"
+    },
+    {
+        "id":310,
+        "classe": "Mage",
+        "name": ["projectilesdesarcanes"],
+        "image": "250.png"
+    },
+    {
+        "id":311,
+        "classe": "Druide",
+        "name": ["eclatlunaire"],
+        "image": "250.png"
+    },
+    {
+        "id":312,
+        "classe": "Chaman",
+        "name": ["totemdegriffesdepierre"],
+        "image": "251.png"
+    },
+    {
+        "id":313,
+        "classe": "Chaman",
+        "name": ["totemdepeaudepierre"],
+        "image": "252.png"
+    },
+    {
+        "id":314,
+        "classe": "Druide",
+        "name": ["sarments"],
+        "image": "253.png"
+    },
+    {
+        "id":315,
+        "classe": "Chaman",
+        "name": ["totemdelienterrestre"],
+        "image": "254.png"
+    },
+    {
+        "id":316,
+        "classe": "Démoniste",
+        "name": ["invocationd'unpalefroicorrompu"],
+        "image": "255.png"
+    },
+    {
+        "id":317,
+        "classe": "Paladin",
+        "name": ["invocationd'unchevaldeguerre"],
+        "image": "255.png"
+    },
+    {
+        "id":318,
+        "classe": "Druide",
+        "name": ["epines"],
+        "image": "256.png"
+    },
+    {
+        "id":319,
+        "classe": "Guerrier",
+        "name": ["coupdetonnerre"],
+        "image": "257.png"
+    },
+    {
+        "id":320,
+        "classe": "Druide",
+        "name": ["tranquillite"],
+        "image": "258.png"
+    },
+    {
+        "id":321,
+        "classe": "Chaman",
+        "name": ["totemdeseisme"],
+        "image": "259.png"
+    },
+    {
+        "id":322,
+        "classe": "Chaman",
+        "name": ["totemfuriedesvents"],
+        "image": "260.png"
+    },
+    {
+        "id":323,
+        "classe": "Chaman",
+        "name": ["maitriseelementaire"],
+        "image": "261.png"
+    },
+    {
+        "id":324,
+        "classe": "Mage",
+        "name": ["explosiondesarcanes"],
+        "image": "262.png"
+    },
+    {
+        "id":325,
+        "classe": "Démoniste",
+        "name": ["corruption"],
+        "image": "263.png"
+    },
+    {
+        "id":326,
+        "classe": "Démoniste",
+        "name": ["ritueldemalediction"],
+        "image": "264.png"
+    },
+    {
+        "id":327,
+        "classe": "Démoniste",
+        "name": ["gardiendel'ombre"],
+        "image": "265.png"
+    },
+    {
+        "id":328,
+        "classe": "Voleur",
+        "name": ["preparation"],
+        "image": "265.png"
+    },
+    {
+        "id":329,
+        "classe": "Prêtre",
+        "name": ["protectioncontrel'ombre"],
+        "image": "265.png"
+    },
+    {
+        "id":330,
+        "classe": "Démoniste",
+        "name": ["maledictionfuneste"],
+        "image": "266.png"
+    },
+    {
+        "id":331,
+        "classe": "Prêtre",
+        "name": ["pestedevorante"],
+        "image": "267.png"
+    },
+    {
+        "id":332,
+        "classe": "Démoniste",
+        "name": ["connexion"],
+        "image": "268.png"
+    },
+    {
+        "id":333,
+        "classe": "Démoniste",
+        "name": ["maledictiondeselements"],
+        "image": "269.png"
+    },
+    {
+        "id":334,
+        "classe": "Démoniste",
+        "name": ["maledictionamplifiee"],
+        "image": "270.png"
+    },
+    {
+        "id":335,
+        "classe": "Démoniste",
+        "name": ["bannir"],
+        "image": "271.png"
+    },
+    {
+        "id":336,
+        "classe": "Voleur",
+        "name": ["frappefantomatique"],
+        "image": "272.png"
+    },
+    {
+        "id":337,
+        "classe": "Démoniste",
+        "name": ["maledictiondel'ombre"],
+        "image": "273.png"
+    },
+    {
+        "id":339,
+        "classe": "Démoniste",
+        "name": ["maledictiondefaiblesse"],
+        "image": "274.png"
+    },
+    {
+        "id":340,
+        "classe": "Démoniste",
+        "name": ["maledictiond'agonie"],
+        "image": "275.png"
+    },
+    {
+        "id":341,
+        "classe": "Démoniste",
+        "name": ["maledictiondeslangages"],
+        "image": "276.png"
+    },
+    {
+        "id":342,
+        "classe": "Démoniste",
+        "name": ["pactenoir"],
+        "image": "277.png"
+    },
+    {
+        "id":343,
+        "classe": "Chasseur",
+        "name": ["pistagedesmortsvivants"],
+        "image": "278.png"
+    },
+    {
+        "id":344,
+        "classe": "Prêtre",
+        "name": ["toucherdefaiblesse"],
+        "image": "279.png"
+    },
+    {
+        "id":345,
+        "classe": "Démoniste",
+        "name": ["voilemortel"],
+        "image": "280.png"
+    },
+    {
+        "id":346,
+        "classe": "Guerrier",
+        "name": ["souhaitmortel"],
+        "image": "281.png"
+    },
+    {
+        "id":347,
+        "classe": "Guerrier",
+        "name": ["hurlementperçant"],
+        "image": "282.png"
+    },
+    {
+        "id":348,
+        "classe": "Démoniste",
+        "name": ["hurlementdeterreur"],
+        "image": "282.png"
+    },
+    {
+        "id":349,
+        "classe": "Chaman",
+        "name": ["respirationaquatique"],
+        "image": "283.png"
+    },
+    {
+        "id":350,
+        "classe": "Démoniste",
+        "name": ["detectiondel'invisibilite"],
+        "image": "284.png"
+    },
+    {
+        "id":351,
+        "classe": "Démoniste",
+        "name": ["detectiondel'invisibiliteinferieure"],
+        "image": "285.png"
+    },
+    {
+        "id":352,
+        "classe": "Mage",
+        "name": ["bouclierdemana"],
+        "image": "285.png"
+    },
+    {
+        "id":353,
+        "classe": "Démoniste",
+        "name": ["subjugationdedemon"],
+        "image": "286.png"
+    },
+    {
+        "id":354,
+        "classe": "Démoniste",
+        "name": ["oeildekilrogg"],
+        "image": "287.png"
+    },
+    {
+        "id":355,
+        "classe": "Prêtre",
+        "name": ["maleficedefaiblesse"],
+        "image": "288.png"
+    },
+    {
+        "id":356,
+        "classe": "Démoniste",
+        "name": ["lienspirituel"],
+        "image": "289.png"
+    },
+    {
+        "id":357,
+        "classe": "Démoniste",
+        "name": ["maledictiondefatigue"],
+        "image": "290.png"
+    },
+    {
+        "id":358,
+        "classe": "Démoniste",
+        "name": ["siphond'ame"],
+        "image": "291.png"
+    },
+    {
+        "id":359,
+        "classe": "Prêtre",
+        "name": ["silence"],
+        "image": "292.png"
+    },
+    {
+        "id":360,
+        "classe": "Voleur",
+        "name": ["hemorragie"],
+        "image": "293.png"
+    },
+    {
+        "id":361,
+        "classe": "Démoniste",
+        "name": ["captationdevie"],
+        "image": "293.png"
+    },
+    {
+        "id":362,
+        "classe": "Démoniste",
+        "name": ["draindevie"],
+        "image": "294.png"
+    },
+    {
+        "id":363,
+        "classe": "Prêtre",
+        "name": ["bruluredemana"],
+        "image": "295.png"
+    },
+    {
+        "id":364,
+        "classe": "Démoniste",
+        "name": ["detectiondesdemons"],
+        "image": "296.png"
+    },
+    {
+        "id":365,
+        "classe": "Démoniste",
+        "name": ["maledictiond'idiotie"],
+        "image": "297.png"
+    },
+    {
+        "id":366,
+        "classe": "Voleur",
+        "name": ["cecite"],
+        "image": "298.png"
+    },
+    {
+        "id":367,
+        "classe": "Voleur",
+        "name": ["premeditation"],
+        "image": "299.png"
+    },
+    {
+        "id":368,
+        "classe": "Démoniste",
+        "name": ["peur"],
+        "image": "299.png"
+    },
+    {
+        "id":369,
+        "classe": "Démoniste",
+        "name": ["sacrificedemoniaque"],
+        "image": "300.png"
+    },
+    {
+        "id":370,
+        "classe": "Prêtre",
+        "name": ["cripsychique"],
+        "image": "300.png"
+    },
+    {
+        "id":371,
+        "classe": "Démoniste",
+        "name": ["armuredemoniaque","peaudedemon"],
+        "image": "301.png"
+    },
+    {
+        "id":372,
+        "classe": "Démoniste",
+        "name": ["pluiedefeu"],
+        "image": "302.png"
+    },
+    {
+        "id":373,
+        "classe": "Démoniste",
+        "name": ["siphondevie"],
+        "image": "303.png"
+    },
+    {
+        "id":374,
+        "classe": "Prêtre",
+        "name": ["reaction"],
+        "image": "304.png"
+    },
+    {
+        "id":375,
+        "classe": "Voleur",
+        "name": ["attaquepernicieuse"],
+        "image": "304.png"
+    },
+    {
+        "id":376,
+        "classe": "Démoniste",
+        "name": ["bruluredel'ombre"],
+        "image": "305.png"
+    },
+    {
+        "id":377,
+        "classe": "Paladin",
+        "name": ["auraderesistanceal'ombre"],
+        "image": "306.png"
+    },
+    {
+        "id":378,
+        "classe": "Démoniste",
+        "name": ["traitdel'ombre"],
+        "image": "307.png"
+    },
+    {
+        "id":379,
+        "classe": "Prêtre",
+        "name": ["formed'ombre"],
+        "image": "308.png"
+    },
+    {
+        "id":380,
+        "classe": "Voleur",
+        "name": ["evasion"],
+        "image": "309.png"
+    },
+    {
+        "id":381,
+        "classe": "Prêtre",
+        "name": ["controlemental"],
+        "image": "310.png"
+    },
+    {
+        "id":382,
+        "classe": "Voleur",
+        "name": ["pousseed'adrenaline"],
+        "image": "310.png"
+    },
+    {
+        "id":383,
+        "classe": "Prêtre",
+        "name": ["motdel'ombredouleur"],
+        "image": "311.png"
+    },
+    {
+        "id":384,
+        "classe": "Prêtre",
+        "name": ["fouetmental"],
+        "image": "312.png"
+    },
+    {
+        "id":385,
+        "classe": "Démoniste",
+        "name": ["draindemana"],
+        "image": "312.png"
+    },
+    {
+        "id":386,
+        "classe": "Démoniste",
+        "name": ["creationdepierred'ame"],
+        "image": "313.png"
+    },
+    {
+        "id":387,
+        "classe": "Chasseur",
+        "name": ["pistagedesdemons"],
+        "image": "314.png"
+    },
+    {
+        "id":388,
+        "classe": "Démoniste",
+        "name": ["invocationd'unchasseurcorrompu"],
+        "image": "314.png"
+    },
+    {
+        "id":389,
+        "classe": "Démoniste",
+        "name": ["invocationd'undiablotin"],
+        "image": "315.png"
+    },
+    {
+        "id":390,
+        "classe": "Démoniste",
+        "name": ["inferno"],
+        "image": "316.png"
+    },
+    {
+        "id":391,
+        "classe": "Démoniste",
+        "name": ["invocationd'unesuccube"],
+        "image": "317.png"
+    },
+    {
+        "id":392,
+        "classe": "Démoniste",
+        "name": ["invocationd'unmarcheurduvide"],
+        "image": "318.png"
+    },
+    {
+        "id":393,
+        "classe": "Démoniste",
+        "name": ["ritueld'invocation"],
+        "image": "319.png"
+    },
+    {
+        "id":394,
+        "classe": "Prêtre",
+        "name": ["attaquementale"],
+        "image": "320.png"
+    },
+    {
+        "id":395,
+        "classe": "Démoniste",
+        "name": ["maledictiondetemerite"],
+        "image": "321.png"
+    },
+    {
+        "id":396,
+        "classe": "Prêtre",
+        "name": ["etreintevampirique"],
+        "image": "322.png"
+    },
+    {
+        "id":397,
+        "classe": "Druide",
+        "name": ["lambeau"],
+        "image": "323.png"
+    },
+    {
+        "id":398,
+        "classe": "Voleur",
+        "name": ["poisondouloureux"],
+        "image": "324.png"
+    },
+    {
+        "id":399,
+        "classe": "Chaman",
+        "name": ["courrouxnaturel"],
+        "image": "183.png"
+    }
+]
