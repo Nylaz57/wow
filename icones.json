@@ -164,7 +164,7 @@
   {
     "id": 27,
     "classe": "Guerrier",
-    "name": ["cridintimidation"],
+    "name": ["crid'intimidation"],
     "image": "26.png"
   },
   {
@@ -236,7 +236,7 @@
   {
     "id": 39,
     "classe": "Chasseur",
-    "name": ["oeildaigle"],
+    "name": ["oeild'aigle"],
     "image": "36.png"
   },
   {
@@ -326,7 +326,7 @@
   {
     "id": 54,
     "classe": "Druide",
-    "name": ["formedours", "formedoursredoutable"],
+    "name": ["formed'ours"],
     "image": "49.png"
   },
   {
@@ -428,7 +428,7 @@
   {
     "id": 71,
     "classe": "Chasseur",
-    "name": ["coupuredailes"],
+    "name": ["coupured'ailes"],
     "image": "62.png"
   },
   {
@@ -554,7 +554,7 @@
   {
     "id": 92,
     "classe": "Paladin",
-    "name": ["sceaudautorite"],
+    "name": ["sceaud'autorite"],
     "image": "79.png"
   },
   {
@@ -578,7 +578,7 @@
   {
     "id": 96,
     "classe": "Voleur",
-    "name": ["exposerlarmure"],
+    "name": ["exposerl'armure"],
     "image": "83.png"
   },
   {
@@ -758,7 +758,7 @@
   {
     "id": 126,
     "classe": "Démoniste",
-    "name": ["feudelame"],
+    "name": ["feudel'ame"],
     "image": "109.png"
   },
   {
@@ -770,7 +770,7 @@
   {
     "id": 128,
     "classe": "Chasseur",
-    "name": ["piegedimmolation"],
+    "name": ["pieged'immolation"],
     "image": "111.png"
   },
   {
@@ -956,7 +956,7 @@
   {
     "id": 160,
     "classe": "Chaman",
-    "name": ["marchesurleau"],
+    "name": ["marchesurl'eau"],
     "image": "134.png"
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "id": 171,
     "classe": "Prêtre",
-    "name": ["gracedelune"],
+    "name": ["graced'elune"],
     "image": "145.png"
   },
   {
@@ -1250,13 +1250,13 @@
   {
     "id": 209,
     "classe": "Prêtre",
-    "name": ["prieredeprotectioncontrelombre"],
+    "name": ["prieredeprotectioncontrel'ombre"],
     "image": "173.png"
   },
   {
     "id": 210,
     "classe": "Prêtre",
-    "name": ["prieredesprit"],
+    "name": ["priered'esprit"],
     "image": "174.png"
   },
   {
@@ -1490,7 +1490,7 @@
   {
     "id": 250,
     "classe": "Chaman",
-    "name": ["chainedeclairs"],
+    "name": ["chained'eclairs"],
     "image": "206.png"
   },
   {
@@ -1598,7 +1598,7 @@
   {
     "id": 268,
     "classe": "Druide",
-    "name": ["essaimdinsectes"],
+    "name": ["essaimd'insectes"],
     "image": "223.png"
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "id": 275,
     "classe": "Prêtre",
-    "name": ["gardedelombre"],
+    "name": ["gardedel'ombre"],
     "image": "226.png"
   },
   {
@@ -1874,13 +1874,13 @@
   {
     "id": 315,
     "classe": "Démoniste",
-    "name": ["invocationdunpalefroicorrompu"],
+    "name": ["invocationd'unpalefroicorrompu"],
     "image": "255.png"
   },
   {
     "id": 316,
     "classe": "Paladin",
-    "name": ["invocationdunchevaldeguerre"],
+    "name": ["invocationd'unchevaldeguerre"],
     "image": "255.png"
   },
   {
@@ -1940,7 +1940,7 @@
   {
     "id": 326,
     "classe": "Démoniste",
-    "name": ["gardiendelombre"],
+    "name": ["gardiendel'ombre"],
     "image": "265.png"
   },
   {
@@ -1952,7 +1952,7 @@
   {
     "id": 328,
     "classe": "Prêtre",
-    "name": ["protectioncontrelombre"],
+    "name": ["protectioncontrel'ombre"],
     "image": "265.png"
   },
   {
@@ -2000,7 +2000,7 @@
   {
     "id": 336,
     "classe": "Démoniste",
-    "name": ["maledictiondelombre"],
+    "name": ["maledictiondel'ombre"],
     "image": "273.png"
   },
   {
@@ -2012,7 +2012,7 @@
   {
     "id": 338,
     "classe": "Démoniste",
-    "name": ["maledictiondagonie"],
+    "name": ["maledictiond'agonie"],
     "image": "275.png"
   },
   {
@@ -2072,13 +2072,13 @@
   {
     "id": 348,
     "classe": "Démoniste",
-    "name": ["detectiondelinvisibilite"],
+    "name": ["detectiondel'invisibilite"],
     "image": "284.png"
   },
   {
     "id": 349,
     "classe": "Démoniste",
-    "name": ["detectiondelinvisibiliteinferieure"],
+    "name": ["detectiondel'invisibiliteinferieure"],
     "image": "285.png"
   },
   {
@@ -2120,7 +2120,7 @@
   {
     "id": 356,
     "classe": "Démoniste",
-    "name": ["siphondame"],
+    "name": ["siphond'ame"],
     "image": "291.png"
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "id": 363,
     "classe": "Démoniste",
-    "name": ["maledictiondidiotie"],
+    "name": ["maledictiond'idiotie"],
     "image": "297.png"
   },
   {
@@ -2228,25 +2228,25 @@
   {
     "id": 374,
     "classe": "Démoniste",
-    "name": ["bruluredelombre"],
+    "name": ["bruluredel'ombre"],
     "image": "305.png"
   },
   {
     "id": 375,
     "classe": "Paladin",
-    "name": ["auraderesistancealombre"],
+    "name": ["auraderesistanceal'ombre"],
     "image": "306.png"
   },
   {
     "id": 376,
     "classe": "Démoniste",
-    "name": ["traitdelombre"],
+    "name": ["traitdel'ombre"],
     "image": "307.png"
   },
   {
     "id": 377,
     "classe": "Prêtre",
-    "name": ["formedombre"],
+    "name": ["formed'ombre"],
     "image": "308.png"
   },
   {
@@ -2264,13 +2264,13 @@
   {
     "id": 380,
     "classe": "Voleur",
-    "name": ["pousseedadrenaline"],
+    "name": ["pousseed'adrenaline"],
     "image": "310.png"
   },
   {
     "id": 381,
     "classe": "Prêtre",
-    "name": ["motdelombredouleur"],
+    "name": ["motdel'ombredouleur"],
     "image": "311.png"
   },
   {
@@ -2288,7 +2288,7 @@
   {
     "id": 384,
     "classe": "Démoniste",
-    "name": ["creationdepierredame"],
+    "name": ["creationdepierred'ame"],
     "image": "313.png"
   },
   {
@@ -2300,13 +2300,13 @@
   {
     "id": 386,
     "classe": "Démoniste",
-    "name": ["invocationdunchasseurcorrompu"],
+    "name": ["invocationd'unchasseurcorrompu"],
     "image": "314.png"
   },
   {
     "id": 387,
     "classe": "Démoniste",
-    "name": ["invocationdundiablotin"],
+    "name": ["invocationd'undiablotin"],
     "image": "315.png"
   },
   {
@@ -2318,19 +2318,19 @@
   {
     "id": 389,
     "classe": "Démoniste",
-    "name": ["invocationdunesuccube"],
+    "name": ["invocationd'unesuccube"],
     "image": "317.png"
   },
   {
     "id": 390,
     "classe": "Démoniste",
-    "name": ["invocationdunmarcheurduvide"],
+    "name": ["invocationd'unmarcheurduvide"],
     "image": "318.png"
   },
   {
     "id": 391,
     "classe": "Démoniste",
-    "name": ["ritueldinvocation"],
+    "name": ["ritueld'invocation"],
     "image": "319.png"
   },
   {

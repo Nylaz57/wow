@@ -70,7 +70,7 @@ function jouerMusiqueAleatoire() {
   const musiqueAleatoire = musiques[indexMusiqueAleatoire];
   // Mettez à jour la piste audio en cours de lecture
   musiqueEnCours = musiqueAleatoire;
-  musiqueAleatoire.volume = 0.75;
+  musiqueAleatoire.volume = 0.1;
   // Lancer la lecture de la musique aléatoire
   musiqueAleatoire.play();
   // Ajouter un gestionnaire d'événement pour détecter la fin de la musique aléatoire
