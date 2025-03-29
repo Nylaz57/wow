@@ -1,338 +1,328 @@
 html {
-    background-image: url('IMAGES/Background.webp');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    position: fixed;
-    width: 100%;
-    cursor: url(/IMAGES/pointeur1.cur),
-        auto;
+  background-image: url("IMAGES/Background.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: fixed;
+  width: 100%;
+  cursor: url(IMAGES/pointeur1.cur), auto;
 }
 
 .timer {
-    justify-content: center;
-    display: flex;
-    font-family: 'Calibri', sans-serif;
-    text-shadow: 1px 1px 2px white, 0 0 1em black, 0 0 0.2em black;
-    font-size: 3em;
+  justify-content: center;
+  display: flex;
+  font-family: "Calibri", sans-serif;
+  text-shadow: 1px 1px 2px white, 0 0 1em black, 0 0 0.2em black;
+  font-size: 3em;
 }
-#scoreModal{
-    margin-top: 0px;
-    margin-bottom: 10px;
-    font-family: 'Calibri';
-    font-size: 17px;
-    color: #FFCD19;
-    display: flex;
-    align-items: center; 
+#scoreModal {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-family: "Calibri";
+  font-size: 17px;
+  color: #ffcd19;
+  display: flex;
+  align-items: center;
 }
-html,body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
-.regles{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url(IMAGES/regles.png);
-    background-repeat: no-repeat;
-
+.regles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(IMAGES/regles.png);
+  background-repeat: no-repeat;
 }
-.backgroundModal{
-    display: flex;
-    height: 121px;
-    width: 240px;
-    background-image: url('IMAGES/background\ modal.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    justify-content: space-around;
-    align-items: center;
-
+.backgroundModal {
+  display: flex;
+  height: 121px;
+  width: 240px;
+  background-image: url("IMAGES/background\ modal.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  justify-content: space-around;
+  align-items: center;
 }
 .texte-aide {
-    width: 289px;
-    height: 1.5em;
-    display: flex;
-    justify-content: center;
-    font-family: 'Calibri';
-    font-size: 1.5em;
-    color: black;
-    font-weight: 600;
-    text-shadow: 1px 1px 2px #df250c,
-        0 0 1em #df250c,
-        0 0 0.2em #df250c;
+  width: 289px;
+  height: 1.5em;
+  display: flex;
+  justify-content: center;
+  font-family: "Calibri";
+  font-size: 1.5em;
+  color: black;
+  font-weight: 600;
+  text-shadow: 1px 1px 2px #df250c, 0 0 1em #df250c, 0 0 0.2em #df250c;
 }
 .texte-aide2 {
-    width: 289px;
-    height: 1.5em;
-    display: flex;
-    justify-content: center;
-    font-family: 'Calibri';
-    font-size: 1.5em;
-    font-weight: 600;
-    color: black;
-    text-shadow: 1px 1px 2px #df840c,
-        0 0 1em #df840c,
-        0 0 0.2em #df840c;
+  width: 289px;
+  height: 1.5em;
+  display: flex;
+  justify-content: center;
+  font-family: "Calibri";
+  font-size: 1.5em;
+  font-weight: 600;
+  color: black;
+  text-shadow: 1px 1px 2px #df840c, 0 0 1em #df840c, 0 0 0.2em #df840c;
 }
 .texte-aide3 {
-    width: 289px;
-    height: 1.5em;
-    display: flex;
-    justify-content: center;
-    font-family: 'Calibri';
-    font-size: 1.5em;
-    font-weight: 600;
-    color: black;
-    text-shadow: 1px 1px 2px #2bdf07,
-        0 0 1em #2bdf07,
-        0 0 0.2em #2bdf07;
+  width: 289px;
+  height: 1.5em;
+  display: flex;
+  justify-content: center;
+  font-family: "Calibri";
+  font-size: 1.5em;
+  font-weight: 600;
+  color: black;
+  text-shadow: 1px 1px 2px #2bdf07, 0 0 1em #2bdf07, 0 0 0.2em #2bdf07;
 }
 h1 {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    font-family: 'Calibri', sans-serif;
-    text-shadow: 1px 1px 2px wheat, 0 0 1em black, 0 0 0.2em black;
-    margin-top: 1em;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-family: "Calibri", sans-serif;
+  text-shadow: 1px 1px 2px wheat, 0 0 1em black, 0 0 0.2em black;
+  margin-top: 1em;
 }
 .container {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
-main{
-    display: flex;
-    flex-direction: column;  
+main {
+  display: flex;
+  flex-direction: column;
 }
-body{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
-footer{
-    display: flex;
-    justify-content: center;
-    position: absolute; 
-    bottom: 0;
-    left: 0; 
-    right: 0;
-    color: wheat;
+footer {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: wheat;
 }
 .icons {
-    height: 150px;
-    margin-bottom: 5px;
-    display: flex;
-    justify-content: center;
+  height: 150px;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: center;
 }
 .logo {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .saisie {
-    display: flex;
+  display: flex;
 }
 .input-background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
 }
 .submit {
-    margin: auto;
-    display: flex;
-    align-items: center;
+  margin: auto;
+  display: flex;
+  align-items: center;
 }
 .answer {
-    font-family: 'Calibri',
-        sans-serif;
-    background-color: transparent;
-    border: none;
-    padding: 5px;
-    font-size: 20px;
-    color: white;
-    outline: none;
-    height: 35px;
-    width: 225px;
-    padding-left: 20px;
-    padding-right: 20px;
-    cursor: url('/IMAGES/pointeur2.cur'),
-        auto;
+  font-family: "Calibri", sans-serif;
+  background-color: transparent;
+  border: none;
+  padding: 5px;
+  font-size: 20px;
+  color: white;
+  outline: none;
+  height: 35px;
+  width: 225px;
+  padding-left: 20px;
+  padding-right: 20px;
+  cursor: url("IMAGES/pointeur2.cur"), auto;
 }
-#boutonJouer , #boutonCommentJouer{  
-    transform: scale(0.85);
+#boutonJouer,
+#boutonCommentJouer {
+  transform: scale(0.85);
 }
-#boutonJouer:hover , #boutonCommentJouer:hover{  
-    transform: scale(1);
+#boutonJouer:hover,
+#boutonCommentJouer:hover {
+  transform: scale(1);
 }
 #boutonJouer,
 #boutonRejouer,
 #boutonCommentJouer {
-    align-self: center;
-    cursor: url('/IMAGES/pointeur2.cur'),
-        auto;
+  align-self: center;
+  cursor: url("IMAGES/pointeur2.cur"), auto;
 }
-#boutonJouer{
-    height: 40px;
-    width: 171px;
-    background-image:url('/IMAGES/jouer.png') ;
-    background-position: center;
-    justify-content: center;
-    background-repeat: no-repeat;
+#boutonJouer {
+  height: 40px;
+  width: 171px;
+  background-image: url("IMAGES/jouer.png");
+  background-position: center;
+  justify-content: center;
+  background-repeat: no-repeat;
 }
-#boutonCommentJouer{
-    height: 40px;
-    width: 171px;
-    background-image:url('/IMAGES/commentjouer.png') ;
-    background-position: center;
-    justify-content: center;
-    background-repeat: no-repeat;
+#boutonCommentJouer {
+  height: 40px;
+  width: 171px;
+  background-image: url("IMAGES/commentjouer.png");
+  background-position: center;
+  justify-content: center;
+  background-repeat: no-repeat;
 }
-#boutonRejouer{
-    height: 25px;
-    background-image:url('/IMAGES/valide.png') ;
-    background-position: center;
-    background-repeat: no-repeat;
+#boutonRejouer {
+  height: 25px;
+  background-image: url("IMAGES/valide.png");
+  background-position: center;
+  background-repeat: no-repeat;
 }
-.texte-skip, .texteRejouer {
-    font-family: 'Calibri';
-    font-size: 17px;
-    color: #FFCD19;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.texte-skip,
+.texteRejouer {
+  font-family: "Calibri";
+  font-size: 17px;
+  color: #ffcd19;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-h2{
-    font-family: 'Calibri';
-    color: #FFCD19;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+h2 {
+  font-family: "Calibri";
+  color: #ffcd19;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .texte-skip img {
-    padding-left: 3px
+  padding-left: 3px;
 }
 .score {
-    margin-top: 10px;
-    display: flex;
-    justify-content: center;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
 }
 .gold {
-    height: 50%;
-    border-radius: 20%;
+  height: 50%;
+  border-radius: 20%;
 }
-.montant>p {
-    font-family: 'Calibri', sans-serif;
-    padding-right: 10px;
+.montant > p {
+  font-family: "Calibri", sans-serif;
+  padding-right: 10px;
 }
 .input-container {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    position: relative;
-    display: inline-block;
-
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  display: inline-block;
 }
 .skip {
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
 }
 .skip-contenu {
-    height: 25px;
-    width: 202px;
-    display: flex;
-    justify-content: center;
-    background-image: url('IMAGES/skip.png');
-    cursor: url('/IMAGES/cursor-skip.cur'),
-        auto;
+  height: 25px;
+  width: 202px;
+  display: flex;
+  justify-content: center;
+  background-image: url("IMAGES/skip.png");
+  cursor: url("IMAGES/cursor-skip.cur"), auto;
 }
 .montant-score {
-    font-family: 'Calibri', sans-serif;
-    font-size: 2em;
-    font-weight: 700;
+  font-family: "Calibri", sans-serif;
+  font-size: 2em;
+  font-weight: 700;
 }
 .score-container {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 .negatif {
-    color: red;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
+  color: red;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 .positif {
-    color: green;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
+  color: green;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 .modal {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
-    z-index: 3;
-    flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 3;
+  flex-direction: column;
 }
-.drapeaux{
+.drapeaux {
   display: flex;
   justify-content: center;
   gap: 25px;
 }
 .hidden {
-    display: none;
+  display: none;
 }
 
-.faction1{
-    color : #a31404 ;
+.faction1 {
+  color: #a31404;
 }
-.faction2{
-    color : #094a9e  ;
+.faction2 {
+  color: #094a9e;
 }
 .Druide {
-    color: #FF7C0A;
-    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+  color: #ff7c0a;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 .Paladin {
-    color: #F48CBA;
-    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+  color: #f48cba;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 .Prêtre {
-    color: #FFFFFF;
-    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+  color: #ffffff;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 .Voleur {
-    color: #FFF468;
-    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+  color: #fff468;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 .Chaman {
-    color: #0070DD;
-    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+  color: #0070dd;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 .Démoniste {
-    color: #8788EE;
-    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+  color: #8788ee;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 .Guerrier {
-    color: #C69B6D;
-    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+  color: #c69b6d;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 .Mage {
-    color: #3FC7EB;
-    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+  color: #3fc7eb;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 .Chasseur {
-    color: #AAD372;
-    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+  color: #aad372;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
