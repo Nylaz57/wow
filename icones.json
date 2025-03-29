@@ -452,7 +452,7 @@
   {
     "id": 75,
     "classe": "Guerrier",
-    "name": ["couptraumatisant"],
+    "name": ["bourrasque", "couptraumatisant"],
     "image": "66.png"
   },
   {
