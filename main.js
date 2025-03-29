@@ -131,7 +131,6 @@ boutonRejouer.addEventListener("click", function () {
   ligneScore.classList.remove("negatif");
   ligneScore.innerText = scoreActuel;
   timerbadass.play();
-  modalDebut.classList.remove("hidden");
   boutons.classList.add("hidden");
   timerVideo.classList.remove("hidden");
   timerVideo.pause();
