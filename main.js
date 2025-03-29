@@ -119,7 +119,6 @@ commentJouer.addEventListener("click", function () {
 
 boutonRejouer.addEventListener("click", function () {
   // Réinitialisation des variables
-  backModal.classList.add("hidden");
   modalDebut.classList.add("hidden");
   modalFin.classList.add("hidden");
   document.querySelector(".timer").classList.remove("Horde");
@@ -286,7 +285,7 @@ function generationIcone() {
       } else if (randomID == 215) {
         document.querySelector(
           "h1"
-        ).innerHTML = `Quel est le nom de cette technique en<span class="${classe}">&nbsp;<img src="CLASS/${classe}.png">&nbsp;${classe}</span>&nbsp<span class="Alliance"><img src="RACES/humain.png">&nbspHumain</span>&nbspet&nbsp<span class="Alliance"><img src="RACES/nain.png">Nain </span>&nbsp?`;
+        ).innerHTML = `Quel est le nom de cette technique en<span class="${classe}">&nbsp;<img src="CLASS/${classe}.png">&nbsp;${classe}</span>&nbsp<span class="Alliance"><img src="RACES/humain.png">&nbspHumain</span>&nbspet&nbsp<span class="Alliance"><img src="RACES/nain.png">&nbspNain </span>&nbsp?`;
         document.querySelector(
           ".icons"
         ).innerHTML = `<img src="SPELLS/${image}">`;
