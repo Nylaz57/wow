@@ -119,6 +119,7 @@ commentJouer.addEventListener("click", function () {
 
 boutonRejouer.addEventListener("click", function () {
   // Réinitialisation des variables
+  backModal.classList.add("hidden");
   modalDebut.classList.add("hidden");
   modalFin.classList.add("hidden");
   document.querySelector(".timer").classList.remove("Horde");
@@ -149,7 +150,6 @@ boutonRejouer.addEventListener("click", function () {
     titre.classList.remove("hidden");
     imgs.classList.remove("hidden");
     imgs2.classList.remove("hidden");
-    modalFin.classList.add("hidden");
     // Démarrer le timer lorsque le bouton Jouer de la modale a été appuyé
     startTimer();
     jouerMusiqueAleatoire();
