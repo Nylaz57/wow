@@ -154,10 +154,6 @@ footer {
   cursor: url("IMAGES/pointeur2.cur"), auto;
 }
 
-#finModal {
-  visibility: hidden;
-}
-
 #boutonJouer,
 #boutonCommentJouer {
   transform: scale(0.85);

@@ -2054,7 +2054,7 @@
   {
     "id": 345,
     "classe": "Guerrier",
-    "name": ["hurlementperçant"],
+    "name": ["hurlementpercant", "hurlementperçant"],
     "image": "282.png"
   },
   {

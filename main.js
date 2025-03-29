@@ -212,6 +212,8 @@ function pad(number) {
 
 // Fonction pour afficher la modale de fin de partie
 function afficherModaleFinDePartie() {
+  backModal.classList.remove("hidden");
+  modalFin.classList.remove("hidden");
   document.querySelector(".icons").classList.add("hidden");
   reponse.blur();
   titre.classList.add("hidden");
@@ -224,8 +226,6 @@ function afficherModaleFinDePartie() {
   });
   imgs.classList.add("hidden");
   imgs2.classList.add("hidden");
-  backModal.classList.remove("hidden");
-  modalFin.classList.remove("hidden");
   win2.play();
   // Mettre à jour le contenu avec le score
   if (liste.length >= scoreActuel) {
